@@ -14,10 +14,6 @@
 </p>
 
   <p>ALL CHAIN SNPING BOT: https://defix.app/product/all-chain-sniping-bot/</p>
-  <p>ETH Sniping bot this one made me the MOST money: https://github.com/Yapote/ETHEREUM-SNIPING-BOT-ETHX</p>
-  <p>My own AVAX Sniping Bot version: https://github.com/DeFiMasterd/PancakeX-ASTRA-AVAX-Sniping-Bot</p>
-  <p>POLYGON version! much love: https://github.com/Yapote/POLYGON-SNIPING-BOT-POLYX</p>
-  <p>ARBITRUM sniping bot: https://github.com/Yapote/ARBITRUM-SNIPING-BOT-ARBX</p>
  
  
   [![Open Collective](https://img.shields.io/opencollective/backers/fakerjs)](https://opencollective.com/fakerjs#section-contributors)
